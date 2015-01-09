@@ -1,0 +1,17 @@
+code site: http://www.ascii-code.com/
+
+Gaddis_7thEd_Chap2_Prob17
+
+Given
+
+skPrice = $21.77
+nShares = 600
+comish = 2
+CONVPCT = 100
+
+
+a)
+slprice = ? =nShares*skPrice = $13,062
+cprice = ? =slprice*comish/CONVPCT = 261.24
+t of paid = ? = slprice + cPrice = 13323.24
+
